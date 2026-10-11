@@ -1,0 +1,16 @@
+# Database credentials
+.env
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+
+# Logs
+*.log
+
+# Original Olist datasets
+data/
+
+# Editor settings
+.vscode/
